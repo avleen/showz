@@ -10,7 +10,7 @@ Show Date:  20 December 2012
 Panel<a name="panel"></a>
 -----
 
-* Avleen Vig [github](https://github.com/avleen), [twitter](https://twitter.com/avleen)
+* Avleen Vig [github](https://github.com/avleen), [twitter](https://twitter.com/avleen), [blog](http://silverwraith.com/blog/)
 * Patrick McDonnell, Senior Web Operations Engineer at Etsy [twitter](http://twitter.com/mcdonnps)
 * Carolyn Rowland [twitter](http://twitter.com/unpixie)
 * MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
